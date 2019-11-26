@@ -40,5 +40,5 @@ end
 
 def using_insert
     array; ["New Jersey","Bronx","Brooklyn","Dallas","Toronto","Ohio","Texas"]
-    array.insert(4, Python)
+    array.insert
 end  
