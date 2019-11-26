@@ -39,6 +39,6 @@ def using_concat(array1, array2)
 end
 
 def using_insert
-    array; ["New Jersey","Bronx","Brooklyn","Dallas","Toronto","Ohio","Texas"]
-    array.insert
+    array; ["Java","CSS","Ruby","HTML","Javascript","Swift","Kotlin"]
+    array.insert(Python)
 end  
