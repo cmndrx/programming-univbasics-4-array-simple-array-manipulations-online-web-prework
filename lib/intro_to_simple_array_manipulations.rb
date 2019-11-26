@@ -39,6 +39,5 @@ def using_concat(array1, array2)
 end
 
 def using_insert
-    array; ["Java","CSS","Ruby","HTML","Javascript","Swift","Kotlin"]
-    array.insert(4, "Python")
+ a.insert(2, 2.5) # [1, 2, 2.5, 3, 4]
 end  
