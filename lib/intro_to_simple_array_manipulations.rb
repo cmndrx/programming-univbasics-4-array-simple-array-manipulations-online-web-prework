@@ -40,6 +40,5 @@ end
 
 def using_insert
     array; ["Java","CSS","Ruby","HTML","Javascript","Swift","Kotlin"]
-    array.insert(4,)
-  
+    array.insert(4, "Python")
 end  
